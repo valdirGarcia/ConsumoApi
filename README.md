@@ -1,4 +1,4 @@
-# Projeto Star Wars API
+# Projeto Python: Star Wars API
 
 Este é um projeto idealizado como parte da avaliação da disciplina de Desenvolvimento Web 3 do terceiro semestre de 2023 na Faculdade de Tecnologia de
 Araras (FATEC Araras). O projeto consiste em uma aplicação de linha de comando que interage com a API de Star Wars (SWAPI) para consultar informações 
