@@ -16,4 +16,13 @@ O projeto oferece as seguintes funcionalidades:
 
 4. **Encerramento do Programa:** Os usuários têm a opção de encerrar o programa a qualquer momento.
 
+## Pré-requisitos
 
+Certifique-se de ter o Python instalado em seu sistema. Se você ainda não o tem, pode baixá-lo em [python.org](https://www.python.org/downloads/).
+
+Além disso, o código utiliza a biblioteca `requests`, que não está incluída na biblioteca padrão do Python. Você pode instalar a biblioteca usando o arquivo `requirements.txt` fornecido. Para fazer isso, execute o seguinte comando em seu terminal:
+
+```bash
+pip install -r requirements.txt
+
+de o git clone e Aproveite o cliente Star Wars API para explorar informações sobre o universo Star Wars! 
