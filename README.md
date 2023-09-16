@@ -32,4 +32,5 @@ de o git clone
 git clone https://github.com/valdirGarcia/ConsumoApi.git
 ```
 
-Navegue até a pasta execute o código em seu editor e aproveite o cliente Star Wars API para explorar informações sobre o universo Star Wars!
+Navegue até a pasta do projeto em seu editor e execute o código. Em seguida, aproveite o cliente da API Star Wars para explorar informações sobre o universo Star Wars!
+
