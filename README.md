@@ -24,5 +24,12 @@ Além disso, o código utiliza a biblioteca `requests`, que não está incluída
 
 ```bash
 pip install -r requirements.txt
+```
 
-de o git clone e Aproveite o cliente Star Wars API para explorar informações sobre o universo Star Wars! 
+de o git clone 
+
+```
+git clone https://github.com/valdirGarcia/ConsumoApi.git
+```
+
+Navegue até a pasta execute o código em seu editor e aproveite o cliente Star Wars API para explorar informações sobre o universo Star Wars!
