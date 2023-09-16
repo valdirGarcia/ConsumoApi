@@ -34,7 +34,7 @@ Agora, instale as dependências necessárias executando o seguinte comando em se
 pip install -r requirements.txt
 ```
 
-##Executando o Cliente Star Wars API
+## Executando o Cliente Star Wars API
 
 Para iniciar o cliente Star Wars API, execute o seguinte comando:
 
